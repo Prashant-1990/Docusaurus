@@ -12,7 +12,7 @@ const config = {
   },
 
   title: 'Getting Started with Docusaurus',
-  url: 'https://Prashant-1990.github.io',
+  url: 'https://prashant-1990.github.io',
   baseUrl: '/Docusaurus/',
 
   organizationName: 'Prashant-1990',
