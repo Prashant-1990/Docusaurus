@@ -1,3 +1,9 @@
+---
+title: Documentation
+sidebar_position: 2
+---
+
+
 # Chapter 2: Documentation
 
 Once you install Docusaurus, you can zero down on your documentation tasks. The *docs* folder contains all your documentation published on the Docusaurus site. You can add your document files to this folder. 
