@@ -11,6 +11,7 @@ const config = {
     v4: true,
   },
 
+  title: 'Getting Started with Docusaurus',
   url: 'https://Prashant-1990.github.io',
   baseUrl: '/Docusaurus/',
 
