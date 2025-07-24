@@ -17,6 +17,7 @@ const config = {
   organizationName: 'Prashant-1990',
   projectName: 'Docusaurus',
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
