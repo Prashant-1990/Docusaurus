@@ -61,7 +61,7 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Tutorial Hub',
+        title: 'Docusaurus Tutorials',
         logo: {
           alt: 'Site Logo',
           src: 'img/logo.svg',
@@ -69,11 +69,6 @@ const config = {
         items: [
           {
             type: 'docsVersionDropdown', // ✅ Adds version dropdown
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/Prashant-1990',
-            label: 'GitHub',
             position: 'right',
           },
         ],
@@ -85,12 +80,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/Prashant-1990',
+                label: 'LinkedIn',
+                href: 'www.linkedin.com/in/prashant-mathapathi-66865269',
               },
-              {
+                            {
                 label: 'Contact',
-                href: 'mailto:prashant@example.com',
+                href: 'msil to:mathapathi.prashant8@gmail.com',
               },
             ],
           },
