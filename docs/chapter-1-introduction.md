@@ -1,3 +1,8 @@
+---
+title: Introduction and Installation
+sidebar_position: 1
+---
+
 # Chapter 1: Introduction and Installation
 
 When I first heard the word Docusaurus, I was of the opinion that it's definitely got something to do with the Dinosaurus. What did the Dinosaurs got to do with documentation was a question ringing in my mind and thanks to this question; it led me to explore Docusaurus. 
@@ -48,6 +53,8 @@ If the aforementioned command returns the node.js version, it confirms the prese
 ```
 
 :::note
+
+
 
 * You will be asked to choose between Javascript and Typescript languages during installation. You can choose Javascript unless you are very good with Typescript. 
 

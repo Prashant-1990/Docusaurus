@@ -11,11 +11,11 @@ const config = {
     v4: true,
   },
 
-  url: 'https://Prashant-1990.github.io',
-  baseUrl: '/Docusaurus/',
-
-  organizationName: 'Prashant-1990',
-  projectName: 'Docusaurus',
+   title: 'Getting Started with Docusaurus',
+   url: 'https://docusaurus-tutorials.netlify.app',  
+   baseUrl: '/',
+   projectName: 'Docusaurus Tutorials',
+   trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
