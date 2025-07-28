@@ -11,7 +11,7 @@ As a part of my quest to comprehend Docusaurus is what led me to come up with th
 
 # Tutorial Outline
 
-This tutorial would quickly start with the installation of Docusaurus. Once installed, we will navigate the various directories provided by Docusaurus. We would then learn how to customize the default site. Next up, we will see how to add content (documents and blogs) to our Docusaurus site. Finally, we will learn how to implement some of the advanced features in our site. 
+This tutorial starts with the installation of Docusaurus. Once installed, we will navigate the various directories provided by Docusaurus. We would then learn how to customize the default site. Next up, we will see how to add content (documents and blogs) to our Docusaurus site. Finally, we will learn how to implement some of the advanced features in our site. 
 
 Docusaurus is an open source static site generator developed by Meta (formerly Facebook). Docusaurus works on the principle of docs as code and helps users build a documentation site from ground zero. 
 
